@@ -26,6 +26,7 @@ estrutura que pudesse crescer sem precisar refazer toda a rede.
 | 10 | Administração | 192.168.10.0/24 |
 | 20 | RH | 192.168.20.0/24 |
 | 30 | Financeiro | 192.168.30.0/24 |
+| 20 | TI | 192.168.2.0/24 |
 
 ## Implementações
 
@@ -36,14 +37,5 @@ estrutura que pudesse crescer sem precisar refazer toda a rede.
 - IPv4
 - ACLs
 
-## Testes
-
-[prints]
-
-## Troubleshooting
-
-[problemas que aconteceram e como foram resolvidos]
-
-## Arquivo do Packet Tracer
-
 O arquivo `.pkt` está disponível neste repositório.
+
