@@ -7,7 +7,8 @@ estrutura que pudesse crescer sem precisar refazer toda a rede.
 
 ## Topologia
 
-[imagem da topologia]
+<img width="1258" height="491" alt="topologia2" src="https://github.com/user-attachments/assets/7cfedd67-0f72-4b6d-8f27-7373ee78ff03" />
+
 
 ## Equipamentos
 
