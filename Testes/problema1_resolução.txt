@@ -1,0 +1,18 @@
+Problema:
+Após a configuração das VLANs, determinados PCs deixaram de
+se comunicar.
+
+Investigação:
+Foi utilizado o comando show vlan brief para verificar a VLAN
+associada às portas do switch.
+
+Causa:
+A porta do dispositivo estava associada a uma VLAN diferente
+da esperada.
+
+Correção:
+A porta foi configurada novamente como access e associada à
+VLAN correspondente.
+
+Validação:
+Foi realizado um novo teste de conectividade utilizando ping.

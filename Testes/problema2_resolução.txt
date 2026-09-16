@@ -1,0 +1,22 @@
+Problema:
+Durante a migração para Router-on-a-Stick, havia uma configuração
+anterior utilizando outra interface física do roteador.
+
+Investigação:
+Foi utilizado:
+
+show ip interface brief
+
+para verificar as interfaces e os endereços configurados.
+
+Causa:
+A configuração anterior utilizava a mesma rede que passou a ser
+configurada na subinterface Fa0/0.3.
+
+Correção:
+A configuração anterior foi removida e a interface física foi
+desativada.
+
+Validação:
+Após a configuração das subinterfaces, foram realizados testes
+de conectividade e DHCP.
