@@ -3,7 +3,7 @@
 ## Objetivo
 
 Simular a rede de uma pequena empresa, buscando criar uma
-estrutura que pudesse crescer sem precisar refazer toda a rede.
+estrutura que pudesse ser escalável. 
 
 ## Topologia
 
